@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xarray>=2024.1
+pystac-client>=0.7
+planetary-computer>=1.0
+scipy>=1.11
+tqdm>=4.65
+zarr>=2.16
+adlfs>=2023.10
+dask>=2024.1

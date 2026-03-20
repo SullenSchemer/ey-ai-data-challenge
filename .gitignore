@@ -1,0 +1,43 @@
+# EY Competition Materials (confidential per Terms & Conditions)
+data/water_quality_training_dataset.csv
+data/landsat_features_training.csv
+data/landsat_features_validation.csv
+data/terraclimate_features_training.csv
+data/terraclimate_features_validation.csv
+submissions/submission_template.csv
+ 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+ 
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+ 
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
+ 
+# R history
+.Rhistory
