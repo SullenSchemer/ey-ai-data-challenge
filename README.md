@@ -129,4 +129,8 @@ Python 3.11 · Pandas · NumPy · Scikit-learn · Microsoft Planetary Computer A
  
 ---
  
+## License
+
+MIT
+
 *EY AI & Data Challenge 2026 — submitted March 2026*
